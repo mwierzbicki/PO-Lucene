@@ -1,0 +1,1 @@
+This program implements a file indexer via Java directory monitoring API, automatic language detection (Polish/English) and parsing .pdf/.odt/.doc etc. documents. A searcher for the index is also implemented that supports 3 query types. Original problem statement in Polish included. Compile using Maven.
